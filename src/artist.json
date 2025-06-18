@@ -1,0 +1,73 @@
+{
+    "name": "Clancy",
+    "albumCover": "/images/albumCovers/clancy.png",
+    "releaseYear": "2024",
+    "tracks": [
+        {
+            "id": 1,
+            "name": "Overcompensate",
+            "path": "/songs/Overcompensate.mp3"
+        },
+        {
+            "id": 2,
+            "name": "Next Semester",
+            "path": "/songs/Next Semester.mp3"
+        },
+        {
+            "id": 3,
+            "name": "Backslide",
+            "path": "/songs/Backslide.mp3"
+        },
+        {
+            "id": 4,
+            "name": "Midwest Indigo",
+            "path": "/songs/Midwest Indigo.mp3"
+        },
+        {
+            "id": 5,
+            "name": "Routines in the Night",
+            "path": "/songs/RITN.mp3"
+        },
+        {
+            "id": 6,
+            "name": "Vignette",
+            "path": "/songs/Vignette.mp3"
+        },
+        {
+            "id": 7,
+            "name": "The Craving",
+            "path": "/songs/The Craving.mp3"
+        },
+        {
+            "id": 8,
+            "name": "Lavish",
+            "path": "/songs/Lavish.mp3"
+        },
+        {
+            "id": 9,
+            "name": "Navigating",
+            "path": "/songs/Navigating.mp3"
+        },
+        {
+            "id": 10,
+            "name": "Snap Back",
+            "path": "/songs/Snap Back.mp3"
+        },
+        {
+            "id": 11,
+            "name": "Oldies Station",
+            "path": "/songs/Oldies Station.mp3"
+        },
+        {
+            "id": 12,
+            "name": "At The Risk of Feeling Dumb",
+            "path": "/songs/ATROFD.mp3"
+        },
+        {
+            "id": 13,
+            "name": "Paladin Strait",
+            "path": "/songs/Paladin Strait.mp3"
+        }
+    ]
+}
+
