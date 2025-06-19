@@ -10,7 +10,7 @@ Perfect for learning how to build a music streaming UI using Vue and Tailwind.
 
 ## Prerequisites
 
-Before running My Hotel Booker, ensure you have the following installed:
+Before running Spotify App, ensure you have the following installed:
 
 Node.js (Latest stable version recommended)
 
